@@ -1,11 +1,13 @@
 # Assignment solutions for cs231n (Spring 2017).
-My completed solutions to public Stanford University [course](http://cs231n.stanford.edu/) on Convolutional Neural Networks from Spring 2017. Where applicable solutions done in TensorFlow. Really great course and many thanks to Stanford people who made it available!
+My completed solutions to public Stanford University [course](http://cs231n.stanford.edu/) on Convolutional Neural Networks from Spring 2017. Where applicable solutions done in TensorFlow. 
+
+It's a really great course and many thanks to Stanford people who made it available!
 
 ### Assignment 1:
 1. [k-Nearest Neighbor classifier](assignment1/knn.ipynb)
-2. Training a Support Vector Machine
-3. Implement a Softmax classifier
-4. Two-Layer Neural Network
+2. [Training a Support Vector Machine](assignment1/svm.ipynb)
+3. [Implement a Softmax classifier](assignment1/softmax.ipynb)
+4. [Two-Layer Neural Network](assignment1/two_layer_net.ipynb)
 5. [Higher Level Representations: Image Features](assignment1/features.ipynb)
 
 ### Assignment 2:
