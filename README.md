@@ -1,4 +1,4 @@
-# Assignment solutions for cs231n (Spring 2017).
+# CS231n Assignment Solutions (Spring 2017).
 My completed solutions to public Stanford University [course](http://cs231n.stanford.edu/) on Convolutional Neural Networks from Spring 2017. Where applicable solutions done in TensorFlow. 
 
 It's a really great course and many thanks to Stanford people who made it available!
@@ -11,11 +11,11 @@ It's a really great course and many thanks to Stanford people who made it availa
 5. [Higher Level Representations: Image Features](assignment1/features.ipynb)
 
 ### Assignment 2:
-1. Fully-connected Neural Network. (Done)
-2. Batch Normalization. (Done)
-3. Dropout. (Done)
-4. Convolutional Networks. (Done)
-5. PyTorch / TensorFlow on CIFAR-10. (Done in TensorFlow)
+1. [Fully-connected Neural Network](assignment2/FullyConnectedNets.ipynb)
+2. [Batch Normalization](assignment2/BatchNormalization.ipynb)
+3. [Dropout](assignment2/Dropout.ipynb)
+4. [Convolutional Networks](assignment2/ConvolutionalNetworks.ipynb)
+5. [CIFAR-10 in TensorFlow](assignment2/TensorFlow.ipynb)
 
 ### Assignment 3:
 1. Image Captioning with Vanilla RNNs. (Done)
