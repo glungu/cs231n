@@ -1,5 +1,5 @@
 # CS231n Assignment Solutions (Spring 2017).
-My completed solutions to public Stanford University [course](http://cs231n.stanford.edu/) on Convolutional Neural Networks from Spring 2017. Where applicable solutions done in TensorFlow. 
+My completed solutions to public Stanford University [course](http://cs231n.stanford.edu/) on Convolutional Neural Networks from Spring 2017. When applicable, solutions done in TensorFlow. 
 
 It's a really great course and many thanks to Stanford people who made it available! 
 
