@@ -1,7 +1,7 @@
 # CS231n Assignment Solutions (Spring 2017).
 My completed solutions to public Stanford University [course](http://cs231n.stanford.edu/) on Convolutional Neural Networks from Spring 2017. Where applicable solutions done in TensorFlow. 
 
-It's a really great course and many thanks to Stanford people who made it available!
+It's a really great course and many thanks to Stanford people who made it available! 
 
 ### Assignment 1:
 1. [k-Nearest Neighbor classifier](assignment1/knn.ipynb)
@@ -24,4 +24,5 @@ It's a really great course and many thanks to Stanford people who made it availa
 4. [GANs in TensorFlow](assignment3/GANs-TensorFlow.ipynb)
 5. [Style Transfer in TensorFlow](assignment3/StyleTransfer-TensorFlow.ipynb)
 
+More course materials [here](http://cs231n.github.io/).
 
