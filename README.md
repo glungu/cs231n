@@ -18,9 +18,10 @@ It's a really great course and many thanks to Stanford people who made it availa
 5. [CIFAR-10 in TensorFlow](assignment2/TensorFlow.ipynb)
 
 ### Assignment 3:
-1. Image Captioning with Vanilla RNNs. (Done)
-2. Image Captioning with LSTMs. (Done)
-3. Network Visualization: Saliency maps, Class Visualization, and Fooling Images. (Done in TensorFlow)
-4. Style Transfer. (Done in TensorFlow)
-5. Generative Adversarial Networks. (Done in TensorFlow)
+1. [Image Captioning with Vanilla RNNs](assignment3/RNN_Captioning.ipynb)
+2. [Image Captioning with LSTM](assignment3/LSTM_Captioning.ipynb)
+3. [Network Visualizations in TensorFlow](assignment3/NetworkVisualization-TensorFlow.ipynb)
+4. [GAN in TensorFlow](assignment3/GANs-TensorFlow.ipynb)
+5. [Style Transfer in TensorFlow](assignment3/StyleTransfer-TensorFlow.ipynb)
+
 
